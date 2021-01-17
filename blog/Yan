@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/Yan.css">
+</head>
+<body>
+    <div class="content">
+    <h1>новости</h1>
+    <a href="file:///E:/blog/link.html" class="lola">Yander</a>
+    <h2>футбол россия 2 гола франция 6 голов</h2>
+    <p>Вы на сайте Яна Бедретдинова</p>
+    <img src="img/large.jpg" alt="футбол">
+    <a href="file:///E:/blog/link.html" class="lol">ПОДРОБНЕЕ</a>
+    
+    <h2>в америке произошло цунами</h2>
+    <p>Вы на сайте Яна Бедретдинова</p>
+    <img src="img/large.jpg" alt="футбольный мячик">   
+    <a href="file:///E:/blog/link2.html" class="button">ПОДРОБНЕЕ</a>
+        
+    <h2>Ян топ</h2>
+    <p>а вы знали? что Ян топ</p>
+    <img src="img/large.jpg" alt="футбол норм">
+    <a href="file:///E:/blog/link3.html" class="lolaa">ПОДРОБНЕЕ</a>
+    </div>
+</body>	
+</html>

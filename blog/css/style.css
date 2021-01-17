@@ -1,0 +1,102 @@
+body {
+    background: rgb(0 197 161 / 72%);
+    font-family: cursive;
+    color:lightcoral;
+ 
+}
+
+h1{
+    font-size: 18px;
+} 
+h2{
+    font-size: 20px;
+}
+p{
+    font-size: 18px;
+    }
+img {
+    width: 400px;
+}
+    
+.content {
+    width: 780px;
+    background: rgb(197 0 91 / 72%); 
+    padding: 20px;
+        margin : 0 auto;
+
+}
+
+.button {
+    background: #c43aed;
+    color: #82ff3f;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+        transition: 0.5s;
+    
+}
+img {
+    border-radius: 5px;
+}
+
+.button:hover {
+    background: #1c4ced;
+    padding: 15px 22px;
+    
+}
+
+.menu {
+    background: #c43aed;
+    color: #82ff3f;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+        transition: 0.5s;
+    margin-bottom: 35px;
+}
+img {
+    border-radius: 5px;
+}
+
+.link:hover {
+    background: #1c4ced;
+    padding: 15px 22px;
+    border-radius: 5px;
+}
+.link {
+    text-decoration: none;
+    color: brown
+}
+
+.contacts-li {
+    list-style: none;
+    list-style-image: url(lol.png);
+}
+
+.about-us-li {
+    list-style: none;
+    list-style-image: url(lol.png);
+}
+
+@media screen and (max-width:1024px) {
+	.contacts-li {
+		font-size: 30px;
+	}
+	
+	.link {
+		font-size: 25px;
+	}
+	h2 {
+		font-size: 25px;
+	}
+	p {
+		font-size: 25px;
+	}
+	h1 {
+		font-size 25px;
+	}
+	.about-us-li {
+		font-size: 30px;
+	}
+    @media screen:{900px};
+}

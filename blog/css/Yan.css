@@ -1,0 +1,111 @@
+body {
+    background: rgb(0 197 161 / 72%);
+    font-family: cursive;
+    color:lightcoral;
+ 
+}
+
+h1{
+    font-size: 18px;
+} 
+h2{
+    font-size: 20px;
+}
+p{
+    font-size: 18px;
+    }
+img {
+    width: 400px;
+}
+    
+.content {
+    width: 780px;
+    background: rgb(197 0 91 / 72%); 
+    padding: 20px;
+        margin : 0 auto;
+
+}
+
+.button {
+    background: #3aeddf;
+    color: #3f4eff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+        transition: 0.5s;
+    
+}
+img {
+    border-radius: 5px;
+}
+
+.button:hover {
+    background: #1c4ced;
+    padding: 15px 22px;
+}
+
+.lol {
+    background: #49a219;
+    color: #82ff3f;
+    padding: 12px 19px;
+    border-radius: 5px;
+    text-decoration: none;
+        transition: 0.5s;
+    
+}
+img {
+    border-radius: 5px;
+}
+
+.lol:hover {
+    background: #f0e780;
+    padding: 13px 21px;
+}
+
+.lola {
+    background: #c43aed;
+    color: #ffb53f;
+    padding: 11px 21px;
+    border-radius: 5px;
+    text-decoration: none;
+        transition: 0.5s;
+    
+}
+
+img {
+    border-radius: 5px;
+}
+
+.lola:hover {
+    background: #9af080;
+    padding: 16px 19px;
+}
+
+.lol {
+    background: #83de52;
+    color: #82ff3f;
+    padding: 12px 19px;
+    border-radius: 5px;
+    text-decoration: none;
+        transition: 0.5s;
+    
+}
+
+.lolaa {
+    background: #ed3a3a;
+    color: #1dac54;
+    padding: 14px 24px;
+    border-radius: 5px;
+    text-decoration: none;
+        transition: 0.5s;
+    
+}
+
+img {
+    border-radius: 5px;
+}
+
+.lolaa:hover {
+    background: #80f0c5;
+    padding: 17px 18px;
+}
