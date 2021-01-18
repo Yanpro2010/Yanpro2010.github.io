@@ -100,3 +100,13 @@ img {
 	}
     @media screen:{900px};
 }
+
+.sp {
+	background: #c43aed;
+    color: #82ff3f;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+        transition: 0.5s;
+    margin-bottom: 35px;
+}
