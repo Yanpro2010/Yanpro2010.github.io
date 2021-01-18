@@ -53,7 +53,6 @@ img {
     text-decoration: none;
         transition: 0.5s;
     margin-bottom: 35px;
-	margin : o auto;
 }
 img {
     border-radius: 5px;
@@ -63,12 +62,10 @@ img {
     background: #1c4ced;
     padding: 15px 22px;
     border-radius: 5px;
-	margin : 0 auto;
 }
 .link {
     text-decoration: none;
-    color: brown
-	    margin : 0 auto;
+    color: brown;
 }
 
 .contacts-li {
