@@ -68,6 +68,7 @@ img {
 .link {
     text-decoration: none;
     color: brown
+	    margin : 0 auto;
 }
 
 .contacts-li {
