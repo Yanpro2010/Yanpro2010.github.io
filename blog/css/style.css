@@ -63,6 +63,7 @@ img {
     background: #1c4ced;
     padding: 15px 22px;
     border-radius: 5px;
+	margin : 0 auto;
 }
 .link {
     text-decoration: none;
