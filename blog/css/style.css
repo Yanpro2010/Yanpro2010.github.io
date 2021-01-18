@@ -53,6 +53,7 @@ img {
     text-decoration: none;
         transition: 0.5s;
     margin-bottom: 35px;
+	margin : o auto;
 }
 img {
     border-radius: 5px;
