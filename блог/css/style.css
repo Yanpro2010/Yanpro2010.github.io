@@ -77,6 +77,14 @@ img {
     list-style: none;
     list-style-image: url(lol.png);
 }
+.strelka:hover {
+    padding: 15px 22px;
+    border-radius: 5px;
+}
+.strelka {
+    text-decoration: none;
+    color: brown;
+}
 
 @media screen and (max-width:1024px) {
 	.contacts-li {
